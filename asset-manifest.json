@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bingeVault/static/css/main.750cfd16.css",
+    "main.js": "/bingeVault/static/js/main.c14ae23c.js",
+    "index.html": "/bingeVault/index.html",
+    "main.750cfd16.css.map": "/bingeVault/static/css/main.750cfd16.css.map",
+    "main.c14ae23c.js.map": "/bingeVault/static/js/main.c14ae23c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.750cfd16.css",
+    "static/js/main.c14ae23c.js"
+  ]
+}
